@@ -1,3 +1,3 @@
-# Projetos-e-exercicios-realizados
+# Javascript
 JavaScript
 
